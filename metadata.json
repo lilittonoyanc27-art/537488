@@ -1,0 +1,6 @@
+{
+  "name": "¡Trabalenguas por turnos!",
+  "description": "Juego interactivo de trabalenguas en español por turnos para Razmik y Gayane con cronómetro, puntuación y traducción al armenio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
